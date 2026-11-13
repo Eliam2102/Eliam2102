@@ -1,27 +1,28 @@
 <p align="right">
-  <a href="https://github.com/Eliam2102"><img src="./assets/language-es.svg" width="132" alt="Leer este perfil en español" /></a>
-  <a href="./README.en.md"><img src="./assets/language-en-active.svg" width="132" alt="English, current language" /></a>
+  <a href="https://github.com/Eliam2102"><img src="./assets/editorial/language-es.svg" width="108" alt="Leer este perfil en español" /></a>
+  <a href="./README.en.md"><img src="./assets/editorial/language-en-active.svg" width="108" alt="English, current language" /></a>
 </p>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/hero-en-mobile.svg" />
-  <img src="./assets/hero-en.svg" width="100%" alt="Eliam Cauich. AI, systems and product. Full-stack development and automation." />
+  <source media="(max-width: 600px)" srcset="./assets/editorial/hero-en-mobile.svg" />
+  <img src="./assets/editorial/hero-en.svg" width="100%" alt="Eliam Cauich. Software, systems and applied AI." />
 </picture>
 
-# I build products that connect interfaces, systems, and AI agents.
+## Software development, systems and applied AI
 
-I'm **Eliam Cauich Villanueva**. My work brings together software development, business processes, and artificial intelligence: full-stack applications, business systems, integrations, and operational tools.
+I'm **Eliam Cauich Villanueva**. I develop web and mobile applications, APIs, business systems, and integrations. I work with AI agents and process automation, from requirements through implementation and review.
 
-I also contribute to solution design, technical coordination, and educational materials about applied AI. I work collaboratively with AI-assisted development tools, from requirements through deliverable review.
+I also contribute to technical coordination and prepare applied AI learning materials. The projects in this profile include collaborative and AI-assisted development.
 
 **[Capabilities](#user-content-capabilities) · [Cowork and applied AI](#user-content-cowork-and-applied-ai) · [Projects](#user-content-projects) · [Stack](#user-content-stack)**
 
 <a name="capabilities"></a>
-<img src="./assets/capabilities-en.svg" width="100%" alt="01. What I connect: from idea to operations." />
+
+## <img src="./assets/editorial/icon-architecture.svg" width="24" height="24" alt="" /> Capabilities
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/capability-map-en-mobile.svg" />
-  <img src="./assets/capability-map-en.svg" width="100%" alt="AI agents; automation; full-stack software; architecture and data; product and operations; AI learning materials." />
+  <source media="(max-width: 600px)" srcset="./assets/editorial/capability-map-en-mobile.svg" />
+  <img src="./assets/editorial/capability-map-en.svg" width="100%" alt="AI agents; automation; full-stack software; architecture and data; product and operations; AI learning materials." />
 </picture>
 
 <details>
@@ -37,29 +38,31 @@ I also contribute to solution design, technical coordination, and educational ma
 </details>
 
 <a name="cowork-and-applied-ai"></a>
-<img src="./assets/cowork-en.svg" width="100%" alt="02. AI in real work: context, tools and outcomes." />
+
+## <img src="./assets/editorial/icon-agent.svg" width="24" height="24" alt="" /> Cowork and applied AI
 
 I use **Claude Cowork, Codex, and ChatGPT** to structure knowledge, support software development, and prepare deliverables. My work with connected tools includes workflows across documents, requirements, tasks, and operational follow-up.
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/workflow-en-mobile.svg" />
-  <img src="./assets/workflow-en.svg" width="100%" alt="Context → structure → connect → build → review." />
+  <source media="(max-width: 600px)" srcset="./assets/editorial/workflow-en-mobile.svg" />
+  <img src="./assets/editorial/workflow-en.svg" width="100%" alt="Context → structure → connect → build → review." />
 </picture>
 
-- **From business needs to implementation:** processes, data models, rules, user stories, and clear criteria.
-- **From context to action:** instructions, connected tools, and deliverables that can be reviewed.
-- **From draft to a verifiable solution:** code review, tests, documentation, and changes checked against requirements.
+- **Analysis:** processes, data models, business rules, user stories, and acceptance criteria.
+- **Workflows:** instructions, connected tools, and deliverable preparation.
+- **Review:** code, tests, documentation, and changes checked against requirements.
 
 Beyond the public code, I also work on business systems and integrations that are not part of this public portfolio.
 
 <a name="projects"></a>
-<img src="./assets/projects-en.svg" width="100%" alt="03. Code behind the work: selected public projects." />
+
+## <img src="./assets/editorial/icon-code.svg" width="24" height="24" alt="" /> Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Agents + backend
+### <img src="./assets/editorial/icon-agent.svg" width="24" height="24" alt="" /> Agents and backend
 **[norder-crm-api](https://github.com/Eliam2102/norder-crm-api)**
 
 Backend with a Gemini agent, tool execution, conversational memory, vector retrieval, and PDF document generation.
@@ -71,7 +74,7 @@ Backend with a Gemini agent, tool execution, conversational memory, vector retri
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Integrations + automation
+### <img src="./assets/editorial/icon-automation.svg" width="24" height="24" alt="" /> Integrations and automation
 **[norder-api](https://github.com/Eliam2102/norder-api)**
 
 API with availability, appointments, Stripe integration, and scheduled jobs that update states through database transactions.
@@ -85,7 +88,7 @@ API with availability, appointments, Stripe integration, and scheduled jobs that
 <tr>
 <td width="50%" valign="top">
 
-### 🪐 Mobile + data exploration
+### <img src="./assets/editorial/icon-mobile.svg" width="24" height="24" alt="" /> Mobile and data exploration
 **[NASA Explorer](https://github.com/Eliam2102/NASA-explorer-app)**
 
 Application connecting multiple NASA APIs. Data, domain, and presentation layers, with storage adapted to web and mobile.
@@ -97,7 +100,7 @@ Application connecting multiple NASA APIs. Data, domain, and presentation layers
 </td>
 <td width="50%" valign="top">
 
-### 📱 Productivity + native features
+### <img src="./assets/editorial/icon-product.svg" width="24" height="24" alt="" /> Productivity and native features
 **[Personal CRM](https://github.com/Eliam2102/CRM-personal)**
 
 Contact and calendar management with local notification services. Organized around features and use cases.
@@ -111,7 +114,7 @@ Contact and calendar management with local notification services. Organized arou
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ Commerce + web experience
+### <img src="./assets/editorial/icon-commerce.svg" width="24" height="24" alt="" /> Commerce and web experience
 **[BigCart](https://github.com/Eliam2102/E-commerce-BigCart)**
 
 E-commerce frontend with a catalog, product details, shopping cart, forms, and API integration.
@@ -123,7 +126,7 @@ E-commerce frontend with a catalog, product details, shopping cart, forms, and A
 </td>
 <td width="50%" valign="top">
 
-### ✨ Design + motion
+### <img src="./assets/editorial/icon-design.svg" width="24" height="24" alt="" /> Design and motion
 **[Celestún Adventures](https://github.com/Eliam2102/celestun-adventures)**
 
 Tourism experience with tours, a gallery, a blog, animations, and a contact flow through WhatsApp.
@@ -137,7 +140,8 @@ Tourism experience with tours, a gallery, a blog, animations, and a contact flow
 </table>
 
 <a name="stack"></a>
-<img src="./assets/stack-en.svg" width="100%" alt="04. My toolkit: technology with a purpose." />
+
+## <img src="./assets/editorial/icon-connect.svg" width="24" height="24" alt="" /> Technologies and tools
 
 | Area | Technologies and tools I work with |
 | :--- | :--- |
@@ -152,7 +156,7 @@ Tourism experience with tours, a gallery, a blog, animations, and a contact flow
 ---
 
 <p align="center">
-  <strong>Applied AI + engineering + product thinking.</strong><br />
+  <strong>Eliam Cauich Villanueva</strong><br />
   <a href="https://github.com/Eliam2102?tab=repositories">Explore my repositories</a> ·
   <a href="https://github.com/Eliam2102">Leer en español</a>
 </p>
