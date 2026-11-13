@@ -14,7 +14,7 @@ Soy **Eliam Cauich Villanueva**. Mi trabajo combina desarrollo de software, proc
 
 También participo en la definición de soluciones, la coordinación técnica y la creación de materiales sobre IA aplicada. Trabajo de forma colaborativa y con herramientas de desarrollo asistido por IA, desde los requisitos hasta la revisión de los entregables.
 
-**[Capacidades](#capacidades) · [Cowork e IA aplicada](#cowork-e-ia-aplicada) · [Proyectos](#proyectos) · [Stack](#stack)**
+**[Capacidades](#user-content-capacidades) · [Cowork e IA aplicada](#user-content-cowork-e-ia-aplicada) · [Proyectos](#user-content-proyectos) · [Stack](#user-content-stack)**
 
 <a name="capacidades"></a>
 <img src="./assets/capabilities-es.svg" width="100%" alt="01. Lo que conecto: de la idea a la operación." />

@@ -14,7 +14,7 @@ I'm **Eliam Cauich Villanueva**. My work brings together software development, b
 
 I also contribute to solution design, technical coordination, and educational materials about applied AI. I work collaboratively with AI-assisted development tools, from requirements through deliverable review.
 
-**[Capabilities](#capabilities) · [Cowork and applied AI](#cowork-and-applied-ai) · [Projects](#projects) · [Stack](#stack)**
+**[Capabilities](#user-content-capabilities) · [Cowork and applied AI](#user-content-cowork-and-applied-ai) · [Projects](#user-content-projects) · [Stack](#user-content-stack)**
 
 <a name="capabilities"></a>
 <img src="./assets/capabilities-en.svg" width="100%" alt="01. What I connect: from idea to operations." />
