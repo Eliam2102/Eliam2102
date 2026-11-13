@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Eliam Cauich | Desarrollo web y móvil</title>
+  <desc id="desc">Cabecera oscura estilo terminal. React, React Native y TypeScript.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101820"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="338" rx="20" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M22 58H1178" stroke="#30363d"/>
+  <circle cx="32" cy="30" r="6" fill="#f78166"/>
+  <circle cx="54" cy="30" r="6" fill="#d29922"/>
+  <circle cx="76" cy="30" r="6" fill="#3fb950"/>
+  <text x="111" y="36" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#8b949e">~/Eliam2102</text>
+  <text x="55" y="121" font-family="DejaVu Sans Mono, monospace" font-size="16" letter-spacing="3" fill="#3fb950">DESARROLLO WEB Y MÓVIL</text>
+  <text x="52" y="194" font-family="DejaVu Sans, Arial, sans-serif" font-size="58" font-weight="700" fill="#f0f6fc">Eliam Cauich</text>
+  <text x="55" y="237" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" fill="#a9b6c4">Interfaces, aplicaciones e integración de APIs.</text>
+  <rect x="55" y="268" width="115" height="35" rx="8" fill="#17283a" stroke="#2b435a"/>
+  <text x="112.5" y="291" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c0ff" text-anchor="middle">React</text>
+  <rect x="182" y="268" width="174" height="35" rx="8" fill="#17283a" stroke="#2b435a"/>
+  <text x="269" y="291" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c0ff" text-anchor="middle">React Native</text>
+  <rect x="368" y="268" width="155" height="35" rx="8" fill="#17283a" stroke="#2b435a"/>
+  <text x="445.5" y="291" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c0ff" text-anchor="middle">TypeScript</text>
+  <rect x="889" y="105" width="252" height="198" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="927" y="191" font-family="DejaVu Sans Mono, monospace" font-size="58" font-weight="700" fill="#3fb950">&gt;_</text>
+  <path d="M928 223H1102M928 247H1052M928 271H1080" stroke="#3c4957" stroke-width="6" stroke-linecap="round"/>
+</svg>
